@@ -25,23 +25,23 @@ export const logoLists: Record<string, LogoList> = {
     logos: [
       {
         src: logo1,
-        alt: 'Partner 1',
+        alt: 'Jack',
       },
       {
         src: logo2,
-        alt: 'Partner 2',
+        alt: 'Kontik',
       },
       {
         src: logo3,
-        alt: 'Partner 3',
+        alt: 'Golden Lily',
       },
       {
         src: logo4,
-        alt: 'Partner 4',
+        alt: 'Timi',
       },
       {
         src: logo5,
-        alt: 'Partner 5',
+        alt: 'Bonjour',
       },
     ],
   },
