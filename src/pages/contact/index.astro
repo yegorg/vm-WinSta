@@ -1,15 +1,15 @@
 ---
-import Layout from "@layouts/Layout.astro"
-import InnerHero from "@components/sections/InnerHero.astro"
-import ContactInfo from "@components/sections/ContactInfo.astro"
+import Layout from '@layouts/Layout.astro';
+import InnerHero from '@components/sections/InnerHero.astro';
+import ContactInfo from '@components/sections/ContactInfo.astro';
 
 const heroContent = {
-    title: "Contact Us",
-    description: "Contact us for more information"
-}
+  title: 'Napíšte nám',
+  description: 'Kontaktujte nás pre viac informácií',
+};
 ---
 
-<Layout title="Contact Us" description="Contact us for more information">
-    <InnerHero content={heroContent} />
-    <ContactInfo background="base" padding="base" />
+<Layout title="Napíšte nám" description="Kontaktujte nás pre viac informácií">
+  <InnerHero content={heroContent} />
+  <ContactInfo background="base" padding="base" />
 </Layout>
