@@ -8,9 +8,9 @@ export const headerMenu = [
 ];
 
 export const footerMenu = [
-  { name: 'Facebook', link: '/style-guide' },
-  { name: 'X', link: '/style-guide' },
-  { name: 'Instagram', link: '/style-guide' },
+  { name: 'Facebook', link: '#' },
+  { name: 'X', link: '#' },
+  { name: 'Instagram', link: '#' },
 ];
 
 export const legalMenu = [
