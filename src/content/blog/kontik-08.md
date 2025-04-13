@@ -1,7 +1,7 @@
 ---
 title: 'AMOUR CARRE'
 excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
-featuredImage: './images/carre_01.jpg'
+featuredImage: './images/kontik_08.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
@@ -9,7 +9,7 @@ categories: ['Theme Usage']
 seo:
   title: 'AMOUR CARRE'
   description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
-  image: './images/carre_01.jpg'
+  image: './images/kontik_08.jpg'
 ---
 
 ## Flavors
