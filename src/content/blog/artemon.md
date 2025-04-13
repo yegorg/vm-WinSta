@@ -1,27 +1,21 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
-featuredImage: './images/carre_01.jpg'
+title: 'Artemon'
+excerpt: 'Cukrové sušienky s čokoládovou a krémovou príchuťou a pridanými praženými drvenými arašidmi.'
+featuredImage: './images/artemon.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
-  image: './images/carre_01.jpg'
+  title: 'Artemon'
+  description: 'Cukrové sušienky s čokoládovou a krémovou príchuťou a pridanými praženými drvenými arašidmi.'
+  image: './images/artemon.jpg'
 ---
 
 ## Flavors
 
-AMOURCARRE milk truffle flavor
+Artemon black truffle flavor
 
-AMOURCARRE milk truffle flavor
+Artemon black truffle flavor
 
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
+Artemon black truffle flavor
