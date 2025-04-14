@@ -9,7 +9,11 @@ import Select from '@components/ui/form/Select.astro';
 const formBackground = 'light';
 ---
 
-<form class="space-y-6 bg-white p-6 rounded-lg">
+<form
+  class="space-y-6 bg-white p-6 rounded-lg"
+  action="https://formspree.io/f/xrbpdbba"
+  method="POST"
+>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <Input
       label="Názov"
@@ -60,6 +64,6 @@ const formBackground = 'light';
   />
 
   <div class="mt-6">
-    <Button>Submit</Button>
+    <Button type="submit">Submit</Button>
   </div>
 </form>
