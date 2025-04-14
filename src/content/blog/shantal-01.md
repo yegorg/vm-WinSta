@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'SHANTAL mousse vanilková príchuť'
+excerpt: 'Dezert v plášti z cukrových sušienok, jemného karamelu a delikátneho suflé s pridaním prírodnej vanilky..'
 featuredImage: './images/shantal_01.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'SHANTAL mousse vanilková príchuť'
+  description: 'Dezert v plášti z cukrových sušienok, jemného karamelu a delikátneho suflé s pridaním prírodnej vanilky'
   image: './images/shantal_01.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

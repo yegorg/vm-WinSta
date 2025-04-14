@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Bonjour Konti mango príchuť'
+excerpt: 'Dezert z cukrových sušienok, mangového džemu a jemného suflé z manga príchuť.'
 featuredImage: './images/bonjour_06.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Bonjour Konti mango príchuť'
+  description: 'Dezert z cukrových sušienok, mangového džemu a jemného suflé z manga príchuť.'
   image: './images/bonjour_06.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

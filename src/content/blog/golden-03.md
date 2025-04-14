@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Zlatá ľalia príchuť lieskových orieškov'
+excerpt: 'Karamelové cukríky s jemnou náplňou príchuť lieskových orieškov.'
 featuredImage: './images/golden_03.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Zlatá ľalia príchuť lieskových orieškov'
+  description: 'Karamelové cukríky s jemnou náplňou príchuť lieskových orieškov.'
   image: './images/golden_03.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

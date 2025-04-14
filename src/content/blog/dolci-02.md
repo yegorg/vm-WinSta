@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'AMOUR Dolci s orechmi'
+excerpt: 'Hľuzovka s jemným mliečnym prídavkom s pridaním drvených arašidov a lieskových orieškov.'
 featuredImage: './images/dolci_02.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'AMOUR Dolci s orechmi'
+  description: 'Hľuzovka s jemným mliečnym prídavkom s pridaním drvených arašidov a lieskových orieškov.'
   image: './images/dolci_02.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

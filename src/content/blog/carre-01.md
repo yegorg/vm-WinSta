@@ -1,5 +1,5 @@
 ---
-title: 'AMOUR CARRE'
+title: 'AMOUR CARRE príchuť mliečnych hľuzoviek'
 excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
 featuredImage: './images/carre_01.jpg'
 publishDate: '2025-02-22'
@@ -7,21 +7,8 @@ publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
+  title: 'AMOUR CARRE príchuť mliečnych hľuzoviek'
   description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
   image: './images/carre_01.jpg'
 ---
 
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

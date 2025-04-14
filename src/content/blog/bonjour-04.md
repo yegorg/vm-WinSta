@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Bonjour Konti s čerešňovou príchuťou'
+excerpt: 'Zapekaný dezert z cukrových sušienok, čerešňového džemu a jemného suflé s višňovou príchuťou'
 featuredImage: './images/bonjour_04.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Bonjour Konti s čerešňovou príchuťou'
+  description: 'Zapekaný dezert z cukrových sušienok, čerešňového džemu a jemného suflé s višňovou príchuťo'
   image: './images/bonjour_04.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

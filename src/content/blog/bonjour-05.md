@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Bonjour Konti classic'
+excerpt: 'Enrobed Dezert z cukrových sušienok, s prídavkom kávy a smotany, jemného karamelu a jemná príchuť soufflé cappuccino.'
 featuredImage: './images/bonjour_05.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Bonjour Konti classic'
+  description: 'Enrobed Dezert z cukrových sušienok, s prídavkom kávy a smotany, jemného karamelu a jemná príchuť soufflé cappuccino.'
   image: './images/bonjour_05.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

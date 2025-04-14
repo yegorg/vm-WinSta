@@ -1,26 +1,12 @@
 ---
-title: 'Golden Lily'
-excerpt: 'Lily'
+title: 'Zlatá ľalia'
+excerpt: 'Karamelová náplň s jemnou smotanovou príchuťou.'
 featuredImage: './images/golden_01.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'Golden Lily'
-  description: 'Lily'
+  title: 'Zlatá ľalia'
+  description: 'Karamelová náplň s jemnou smotanovou príchuťou.'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

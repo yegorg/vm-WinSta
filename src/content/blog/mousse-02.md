@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'KONTI MOUSSE s príchuťou appuccino'
+excerpt: 'Enrobed cukríky s želé náplňou s príchuťou appuccino.'
 featuredImage: './images/mousse_02.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'KONTI MOUSSE s príchuťou appuccino'
+  description: 'Enrobed cukríky s želé náplňou s príchuťou appuccino.'
   image: './images/mousse_02.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

@@ -1,27 +1,13 @@
 ---
-title: 'TOFFE'
-excerpt: 'Toffe'
+title: 'Príchuť Toffee DeKonte crème'
+excerpt: 'Karamelová poleva s jemnou krémovou náplňou.'
 featuredImage: './images/toffe_01.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'TOFFE'
-  description: 'TOFFE'
+  title: 'Príchuť Toffee DeKonte crème'
+  description: 'Karamelová poleva s jemnou krémovou náplňou.'
   image: './images/toffe_01.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

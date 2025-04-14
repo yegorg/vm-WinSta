@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'KONTI Stefania'
+excerpt: 'Enrоbed kombinované cukrovinky s jemne fondánom a tekutá náplň s veľkou vôňou koňaku.'
 featuredImage: './images/stefania_01.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'KONTI Stefania'
+  description: 'Enrоbed kombinované cukrovinky s jemne fondánom a tekutá náplň s veľkou vôňou koňaku.'
   image: './images/stefania_01.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

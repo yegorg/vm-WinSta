@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Príchuť zmrzliny TIMI'
+excerpt: 'Neglazované karamelové cukríky s jemne plniacou zmrzlinovou príchuťou..'
 featuredImage: './images/timi_01.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Príchuť zmrzliny TIMI'
+  description: 'Neglazované karamelové cukríky s jemne plniacou zmrzlinovou príchuťou..'
   image: './images/timi_01.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor

@@ -11,11 +11,3 @@ seo:
   description: 'Cukrové sušienky s čokoládovou a krémovou príchuťou a pridanými praženými drvenými arašidmi.'
   image: './images/artemon.jpg'
 ---
-
-## Flavors
-
-Artemon black truffle flavor
-
-Artemon black truffle flavor
-
-Artemon black truffle flavor
