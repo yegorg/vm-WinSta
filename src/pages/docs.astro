@@ -35,25 +35,6 @@ const backgrounds = ['base', 'light', 'dark'] as const;
         class={`${getBackgroundColor(bg)} ${getTextColor(bg)} py-12 ${bg === 'base' ? '' : 'hidden'}`}
       >
         <div class="max-w-4xl mx-auto px-4">
-          <h2 class={`text-3xl font-bold mb-8 ${getHeadlineColor(bg)}`}>
-            Style Guide - {bg.charAt(0).toUpperCase() + bg.slice(1)} Background
-          </h2>
-
-          {/* Typography Section */}
-          <section id={`typography-${bg}`} class="mb-12">
-            <h2 class={`text-2xl font-bold mb-6 ${getHeadlineColor(bg)}`}>
-              Typography
-            </h2>
-
-            <div class="my-8">
-              <p
-                class={`text-sm uppercase tracking-wider font-medium ${getEyebrowColor(bg)}`}
-              >
-                Eyebrow Text - Small uppercase text used above headlines
-              </p>
-            </div>
-          </section>
-
           {/* Links Section */}
           <section id={`links-${bg}`} class="mb-12">
             <h2 class={`text-2xl font-bold mb-6 ${getHeadlineColor(bg)}`}>
@@ -61,18 +42,51 @@ const backgrounds = ['base', 'light', 'dark'] as const;
             </h2>
             <div class="space-y-4">
               <p>
-                <a href="#" class="text-primary hover:underline">
-                  Regular Link
+                <a
+                  href="/doc1.pdf"
+                  class="text-primary underline hover:no-underline"
+                >
+                  Outgoing document 1 (PDF)
                 </a>
               </p>
               <p>
-                <a href="#" class="text-primary hover:underline font-bold">
-                  Bold Link
+                <a
+                  href="/doc2.pdf"
+                  class="text-primary underline hover:no-underline"
+                >
+                  Outgoing document 2 (PDF)
                 </a>
               </p>
               <p>
-                <a href="#" class="text-primary underline hover:no-underline">
-                  Underlined Link
+                <a
+                  href="/iso_9001.pdf"
+                  class="text-primary underline hover:no-underline"
+                >
+                  ISO 9001 certificate (PDF)
+                </a>
+              </p>
+              <p>
+                <a
+                  href="/cert.pdf"
+                  class="text-primary underline hover:no-underline"
+                >
+                  Certificate FSSC 22000 (PDF)
+                </a>
+              </p>
+              <p>
+                <a
+                  href="/dealer_price.pdf"
+                  class="text-primary underline hover:no-underline"
+                >
+                  Dealer price list (PDF)
+                </a>
+              </p>
+              <p>
+                <a
+                  href="/order_konti.xlsx"
+                  class="text-primary underline hover:no-underline"
+                >
+                  Dealer price list (Excel)
                 </a>
               </p>
             </div>

@@ -1,27 +1,13 @@
 ---
-title: 'AMOUR CARRE'
-excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+title: 'Super Kontik s čokoládovou príchuťou'
+excerpt: 'Obložené sendvičové sušienky s krémovou náplňou z mliečnej čokolády.'
 featuredImage: './images/kontik_11.jpg'
 publishDate: '2025-02-22'
 publish: true
 categories: ['Theme Usage']
 
 seo:
-  title: 'AMOUR CARRE'
-  description: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek.'
+  title: 'Super Kontik s čokoládovou príchuťou'
+  description: 'Obložené sendvičové sušienky s krémovou náplňou z mliečnej čokolády.'
   image: './images/kontik_11.jpg'
 ---
-
-## Flavors
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOURCARRE milk truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
-
-AMOUR CARRE black truffle flavor
