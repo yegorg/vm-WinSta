@@ -4,7 +4,7 @@ excerpt: 'Dezert z cukrových sušienok, mangového džemu a jemného suflé z m
 featuredImage: './images/bonjour_06.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti mango príchuť'

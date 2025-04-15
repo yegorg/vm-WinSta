@@ -4,7 +4,7 @@ excerpt: 'Enrobed cukríky wıth želé náplň mliečnej príchuti.'
 featuredImage: './images/mousse_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['KOMBINOVANÉ CANDY']
 
 seo:
   title: 'KONTI MOUSSE mliečna príchuť'

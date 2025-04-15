@@ -4,7 +4,7 @@ excerpt: 'Obložené sendvičové sušienky s mliečnou krémovou náplňou s va
 featuredImage: './images/kontik_14.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Super Kontik mliečna vanilka'

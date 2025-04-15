@@ -4,7 +4,7 @@ excerpt: 'Oblátkové cukríky s čokoládovou príchuťou.'
 featuredImage: './images/jack_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['WAFER CANDY']
 
 seo:
   title: 'Dscheck'

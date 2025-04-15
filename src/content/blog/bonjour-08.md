@@ -4,7 +4,7 @@ excerpt: 'Enrobed Dezert vyrobený z cukrových sušienok s prídavkom kávy a s
 featuredImage: './images/bonjour_08.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti classic'

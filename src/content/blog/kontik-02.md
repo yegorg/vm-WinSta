@@ -4,7 +4,7 @@ excerpt: 'Sendvičové sušienky s mäkkou čokoládovou náplňou'
 featuredImage: './images/kontik_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Super Kontik čokoládová príchuť plnenie'

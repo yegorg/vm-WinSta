@@ -4,7 +4,7 @@ excerpt: 'Dezert v plášti z cukrových sušienok, jemného karamelu a deliká
 featuredImage: './images/shantal_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'SHANTAL mousse vanilková príchuť'

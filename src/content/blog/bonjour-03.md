@@ -4,7 +4,7 @@ excerpt: 'Enrobed Dezert z cukrových sušienok, čučoriedkového džemu a jem
 featuredImage: './images/bonjour_03.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti príchuť čučoriedok a mascarpone'

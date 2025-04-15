@@ -4,7 +4,7 @@ excerpt: 'Enrobované fondánové cukríky s pridanou praženicou arašidy a lie
 featuredImage: './images/bear_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['FONDANTOVÉ CANDY']
 
 seo:
   title: 'BEAR s maticou'

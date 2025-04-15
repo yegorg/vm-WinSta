@@ -4,7 +4,7 @@ excerpt: 'Enrobované fondánové cukríky s náplňou so slanou karamelovou pr�
 featuredImage: './images/dekonte.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['FONDANTOVÉ CANDY']
 
 seo:
   title: 'Kaviareň DeKonte'

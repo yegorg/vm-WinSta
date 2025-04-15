@@ -4,7 +4,7 @@ excerpt: 'Sendvič z čiernych sušienok s jemným mliečnym krémom plnenie.'
 featuredImage: './images/kontik_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Náplň s mliečnou príchuťou Super Kontik'

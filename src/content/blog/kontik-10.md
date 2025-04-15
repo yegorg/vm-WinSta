@@ -4,7 +4,7 @@ excerpt: 'Obložené sendvičové sušienky s kondenzovanou mliečnou krémovou 
 featuredImage: './images/kontik_10.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Kondenzované mlieko Super Kontik'

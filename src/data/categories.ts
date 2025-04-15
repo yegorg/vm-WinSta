@@ -6,44 +6,48 @@ interface Category {
 
 export const categories: Category[] = [
   {
-    name: 'Tech',
-    slug: 'tech',
-    description: 'Latest in technology and software development'
+    name: 'TRUFFLE CANDY',
+    slug: 'truffle',
+    description: 'TRUFFLE CANDY',
   },
   {
-    name: 'Web Development',
-    slug: 'web-development',
-    description: 'Tips and insights for better web development'
+    name: 'TOFFEE CANDY',
+    slug: 'toffee',
+    description: 'TOFFEE CANDY',
   },
   {
-    name: 'Design',
-    slug: 'design',
-    description: 'Exploring design and user experience'
+    name: 'DARČEKOVÁ KRABIČKA',
+    slug: 'krabiska',
+    description: 'DARČEKOVÁ KRABIČKA',
   },
   {
-    name: 'Accessibility',
-    slug: 'accessibility',
-    description: 'Exploring accessibility and user experience'
+    name: 'KOMBINOVANÉ CANDY',
+    slug: 'candy',
+    description: 'KOMBINOVANÉ CANDY',
   },
   {
-    name: 'Theme Usage',
-    slug: 'theme-usage',
-    description: 'Learn how to use the theme'
+    name: 'FONDANTOVÉ CANDY',
+    slug: 'fondantove',
+    description: 'FONDANTOVÉ CANDY',
   },
   {
-    name: 'Astro JS',
-    slug: 'astro-js',
-    description: 'Everything about Astro JS framework and development'
+    name: 'WAFER CANDY',
+    slug: 'wafer',
+    description: 'WAFER CANDY',
   },
   {
-    name: 'SEO',
-    slug: 'seo',
-    description: 'Search engine optimization strategies and best practices'
+    name: 'DEZERT',
+    slug: 'dezert',
+    description: 'DEZERT',
   },
-  
+  {
+    name: 'SENDVIČOVÉ SUŠIENKY',
+    slug: 'sendvic',
+    description: 'SENDVIČOVÉ SUŠIENKY',
+  },
 ];
 
 // Helper function to get category by slug
 export function getCategoryBySlug(slug: string): Category | undefined {
-  return categories.find(category => category.slug === slug);
+  return categories.find((category) => category.slug === slug);
 }

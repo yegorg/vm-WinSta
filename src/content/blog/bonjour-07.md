@@ -4,7 +4,7 @@ excerpt: 'Enrobed Dezert z cukrových sušienok, jahodového džemu a jemného s
 featuredImage: './images/bonjour_07.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti jahoda&krémová príchuť'

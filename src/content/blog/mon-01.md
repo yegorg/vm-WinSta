@@ -4,7 +4,7 @@ excerpt: 'Rozmanité cukríky "MONE" dvoch vynikajúcich príchutí - jemnej mli
 featuredImage: './images/mone.jpg'
 publishDate: '2025-03-15'
 publish: true
-categories: ['Astro JS', 'Web Development']
+categories: ['TRUFFLE CANDY']
 
 seo:
   title: 'MONE čierna a mliečna hľuzovka'

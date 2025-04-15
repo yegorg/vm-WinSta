@@ -4,7 +4,7 @@ excerpt: 'Enrobed Dezert z cukrových sušienok čerešňový džem a jemná c
 featuredImage: './images/bonjour_10.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti s čerešňovou príchuťou'

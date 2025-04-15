@@ -4,7 +4,7 @@ excerpt: 'Zapekaný dezert z cukrových sušienok, čerešňového džemu a jemn
 featuredImage: './images/bonjour_04.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti s čerešňovou príchuťou'

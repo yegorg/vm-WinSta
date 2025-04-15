@@ -4,7 +4,7 @@ excerpt: 'Karamelové cukríky s jemnou náplňou príchuť lieskových oriešk
 featuredImage: './images/golden_03.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['TOFFEE CANDY']
 
 seo:
   title: 'Zlatá ľalia príchuť lieskových orieškov'

@@ -4,7 +4,7 @@ excerpt: 'Sendvičové sušienky s mäkkou čokoládovou náplňou príchuť če
 featuredImage: './images/kontik_04.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Super Kontik príchuť čerešňovej koly'

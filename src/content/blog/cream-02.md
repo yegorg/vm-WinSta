@@ -4,7 +4,7 @@ excerpt: 'Enrobed cukríky wıth želé náplň bobule príchuť.'
 featuredImage: './images/cream_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['KOMBINOVANÉ CANDY']
 
 seo:
   title: 'CREAM YOGHURT s príchuťou bobúľ'

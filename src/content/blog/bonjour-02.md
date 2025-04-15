@@ -4,7 +4,7 @@ excerpt: 'Enrobed Dezert z cukrových sušienok, malinového džemu a jemnej pr�
 featuredImage: './images/bonjour_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'Bonjour Konti s panna cotta a malinovou príchuťou'

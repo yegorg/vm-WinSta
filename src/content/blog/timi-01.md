@@ -4,7 +4,7 @@ excerpt: 'Neglazované karamelové cukríky s jemne plniacou zmrzlinovou príchu
 featuredImage: './images/timi_01.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['TOFFEE CANDY']
 
 seo:
   title: 'Príchuť zmrzliny TIMI'

@@ -3,7 +3,7 @@ export const siteConfig = {
   siteUrl: 'https://winsta.sk',
   Socials: {
     xSocial: '#',
-    Instagram: '#',
+    Instagram: 'https://www.instagram.com/konti_slovakia',
     Email: ' sales@winsta.sk',
     Phone: '+421 944 423 899',
     Location: 'Radnicné námestie 6 08501 Bardejov Slovenská republika.',

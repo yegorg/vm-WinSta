@@ -4,7 +4,7 @@ excerpt: 'Sladkosti s jemnou príchuťou mliečnych hľuzoviek'
 featuredImage: './images/mone_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['TRUFFLE CANDY']
 
 seo:
   title: 'Mliečna príchuť hľuzoviek MONE'

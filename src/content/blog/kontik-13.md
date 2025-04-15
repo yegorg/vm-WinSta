@@ -4,7 +4,7 @@ excerpt: 'Obložené sendvičové sušienky s čokoládovo-mliečnou krémovou n
 featuredImage: './images/kontik_13.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['SENDVIČOVÉ SUŠIENKY']
 
 seo:
   title: 'Super Kontik mliečne lieskové oriešky'

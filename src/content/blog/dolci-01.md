@@ -4,7 +4,7 @@ excerpt: 'Hľuzovka z jemného mlieka s sezamových semienok.'
 featuredImage: './images/dolci_01.jpg'
 publishDate: '2025-04-05'
 publish: true
-categories: ['SEO', 'Web Development']
+categories: ['TRUFFLE CANDY']
 
 seo:
   title: 'AMOUR Dolci so sezamom'

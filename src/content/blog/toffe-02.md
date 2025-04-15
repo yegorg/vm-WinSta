@@ -4,7 +4,7 @@ excerpt: 'Neglazované karamelové cukríky so smotanovou mliečnou náplňou pr
 featuredImage: './images/toffe_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['TOFFEE CANDY']
 
 seo:
   title: 'Mliečna príchuť Toffee DeKonte'

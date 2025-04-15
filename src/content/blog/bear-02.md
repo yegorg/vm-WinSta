@@ -4,7 +4,7 @@ excerpt: 'Enrobované fondánové cukríky s jemným mliekom krémová príchu�
 featuredImage: './images/bear_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['FONDANTOVÉ CANDY']
 
 seo:
   title: 'BEAR so smotanou'

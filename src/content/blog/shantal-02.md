@@ -4,7 +4,7 @@ excerpt: 'Zákusok z cukrových sušienok, jemného jahodového džemu a jemné
 featuredImage: './images/shantal_02.jpg'
 publishDate: '2025-02-22'
 publish: true
-categories: ['Theme Usage']
+categories: ['DEZERT']
 
 seo:
   title: 'SHANTAL mousse jahodová krémová príchuť'
