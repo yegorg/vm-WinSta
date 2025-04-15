@@ -2,10 +2,8 @@ export const siteConfig = {
   companyName: 'Winsta s.r.o.',
   siteUrl: 'https://winsta.sk',
   Socials: {
-    xSocial: 'https://x.com/astrodotbuild',
-    Github: 'https://github.com/withastro',
-    Instagram: 'https://www.instagram.com/astrodotbuild',
-    LinkedIn: 'https://www.linkedin.com/company/astrodotbuild',
+    xSocial: '#',
+    Instagram: '#',
     Email: ' sales@winsta.sk',
     Phone: '+421 944 423 899',
     Location: 'Radnicné námestie 6 08501 Bardejov Slovenská republika.',

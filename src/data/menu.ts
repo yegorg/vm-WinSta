@@ -1,15 +1,14 @@
 // src/data/menu.ts
 
 export const headerMenu = [
-  { name: 'Catalogue', link: '/blog' },
-  { name: 'Brands', link: '/team' },
-  { name: 'Documents', link: '/docs' },
-  { name: 'About Us', link: '/about-us' },
+  { name: 'Katalóg', link: '/blog' },
+  { name: 'Značky', link: '/team' },
+  { name: 'Dokumenty', link: '/docs' },
+  { name: 'O nás', link: '/about-us' },
 ];
 
 export const footerMenu = [
   { name: 'Facebook', link: '#' },
-  { name: 'X', link: '#' },
   { name: 'Instagram', link: '#' },
 ];
 
