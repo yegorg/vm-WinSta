@@ -8,7 +8,7 @@ export const headerMenu = [
 ];
 
 export const footerMenu = [
-  { name: 'Facebook', link: '#' },
+  { name: 'Facebook', link: 'https://www.facebook.com/profile.php?id=61575071531713' },
   { name: 'Instagram', link: 'https://www.instagram.com/konti_slovakia' },
 ];
 
